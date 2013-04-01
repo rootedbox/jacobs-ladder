@@ -1,4 +1,4 @@
 jacobs-ladder
 =============
 
-Jacobs Ladder Moduler Synthesiser Usin Max MSP
+Jacobs Ladder Moduler Synthesiser Using MAX/MSP for Live
