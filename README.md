@@ -1,6 +1,6 @@
 # Jacobs Ladder Moduler Synthesiser
 
-**Jacobs Ladder is a Moduler Synthesiser for Ableton created using Max for Live.**
+**A Moduler Synthesiser for Ableton created using Max for Live.**
 
 
 
