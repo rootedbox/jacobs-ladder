@@ -6,7 +6,7 @@
 
 ## About
 
-Like all modular synths Jacobs Ladder uses modules to make up a synthsiser. But unlike most modular synths Jacobs Ladder works not through patch chords but by the order of the modules in path.
+Jacobs Ladder uses modules to create a synthsiser. Instead of patch chords, order of the modules in ableton determine how the synth works.
 
 
 ## Example
