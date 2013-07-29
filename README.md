@@ -9,9 +9,6 @@
 Jacobs Ladder uses modules to create a synthsiser. Instead of patch chords, order of the modules in ableton determine how the synth works.
 
 
-## Example
-
-
 ## Install
 
 
